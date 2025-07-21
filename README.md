@@ -1,6 +1,9 @@
 # Simon-Says-Game
 A fun and interactive memory-based game inspired by classic Simon Says.
 
+# Live Demo: 
+https://deepak-patil-24.github.io/Simon-Says-Game/
+
 # How to Play:
 
 1.Watch the sequence of colors light up.
